@@ -1,12 +1,11 @@
 ## Hi there :wave:
 ### I'm **MANSI** 🤠
 
-I'm a **2nd year Computer Science & Engineering** student at **HBTU**, Kanpur.
+I'm a **3rd year Computer Science & Engineering** student at **HBTU**, Kanpur.
 
 - 🌱 I’m currently focusing on **Data Structures & Algorithms** and learning **full-stack web development**.
 - 🙇 ‍I'm also exploring the open source environment and looking forward to contribute more.
 - 🤝 I'd like to collaborate on **Web Development projects**.
-- :sparkles: Fun fact:My hobbies include singing, drawing. I also love to play badminton.
 - 📫 How to reach me: **mansi.iffco@gmail.com**
 <br>
 <h3 align="left">Connect with me:</h3>
