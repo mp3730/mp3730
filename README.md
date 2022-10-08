@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MANSI</h1>
 <h3 align="center">An undergraduate student interested in web development and software engineering opportunities</h3>
 
-- 🌱 I’m currently learning **incorporating front-end and back-end and data structures and algorithms**
+- 🌱 I’m currently learning **how to incorporate front-end and back-end and also have a keen interest in data structures and algorithms**
 
 - 📫 How to reach me: **mansi.iffco@gmail.com**
 
