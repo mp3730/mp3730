@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MANSI</h1>
-<h3 align="center">An undergraduate student interested in web development and software engineering opportunities</h3>
+<h3 align="center">A Software Developer by profession!</h3>
 
 - 🌱 I’m currently learning **how to incorporate front-end and back-end and also have a keen interest in data structures and algorithms**
 
